@@ -4,23 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/PythonProject1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Captchasolver.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FirstTestCase.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locatorss.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Login.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Pagetitle.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/heeloworld.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+    <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="Captchacode">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -194,7 +179,60 @@
       <option name="presentableId" value="Default" />
       <updated>1734938643487</updated>
     </task>
+    <task id="LOCAL-00001" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736759482157</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759482157</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736759502753</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759502753</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736759557912</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759557912</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736759719428</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759719428</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736759740865</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1736759740865</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736760882383</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1736760882383</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Captchacode" />
+    <option name="LAST_COMMIT_MESSAGE" value="Captchacode" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
