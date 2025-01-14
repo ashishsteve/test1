@@ -52,5 +52,5 @@ solution = solve_captcha(site_key, "https://www.facebook.com/")
 driver.execute_script(
     "document.getElementById('g-recaptcha-response').innerHTML = arguments[0];", solution
 )
-driver.find_element(By.ID, "submit-button").click()
+driver.find_element(By.ID, "u_0_5_li").click()
 
