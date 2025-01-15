@@ -8,8 +8,10 @@ driver=webdriver.Edge(options=options)
 driver.get("https://gmrwebteam.openvio.com/admin/myhistory")
 driver.maximize_window()
 
-driver.find_element(By.ID,"uname").send_keys("ashish_Anand@gmrwebteam.com")
-driver.find_element(By.ID,"Password").send_keys()
+driver.find_element(By.ID,"uname").send_keys("ashish_Ananad@gmrwebteam.com")
+driver.find_element(By.ID,"Password").send_keys("6m&En*=P")
+driver.find_element(By.ID,"login_sub_button").click()
+driver.find_element(By.LINK_TEXT,"//*[@id="menu-content"]/li[5]/a").
 
 ##print(PageTitle1)
 
