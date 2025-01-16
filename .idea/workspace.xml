@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="Captchacode">
-      <change afterPath="$PROJECT_DIR$/FirstTestCases.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators4.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SaucedemoLogin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/listdemo.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stringsdemo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AppCommands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ConditionalCommands.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FinElementVsFindElements.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NavigationalCommands.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Locators2.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pagetitle.py" beforeDir="false" afterPath="$PROJECT_DIR$/OpenvioLogin.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cinderellahair product verification.py" beforeDir="false" afterPath="$PROJECT_DIR$/Cinderellahair product verification.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -22,6 +18,12 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="GitHubPullRequestSearchHistory">{
@@ -37,7 +39,7 @@
   }
 }</component>
   <component name="ProblemsViewState">
-    <option name="selectedTabId" value="ProjectErrors" />
+    <option name="selectedTabId" value="CurrentFile" />
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 0
@@ -50,17 +52,22 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.AppCommands.executor": "Run",
     "Python.Capturewholepagescreenshot.executor": "Run",
+    "Python.Cinderellahair product verification (1).executor": "Debug",
+    "Python.ConditionalCommands.executor": "Run",
     "Python.ConditionalStatements.executor": "Run",
     "Python.Da1.executor": "Run",
+    "Python.Day14.executor": "Run",
     "Python.FirstTestCase.executor": "Run",
     "Python.FirstTestCases.executor": "Run",
-    "Python.Locator.executor": "Debug",
+    "Python.Locator.executor": "Run",
     "Python.Locators.executor": "Run",
     "Python.Locators1.executor": "Run",
     "Python.Locators2.executor": "Run",
     "Python.Locators3.executor": "Run",
     "Python.Locators4.executor": "Run",
+    "Python.Locators6.executor": "Run",
     "Python.Locatorss.executor": "Run",
     "Python.Login.executor": "Run",
     "Python.Pagetitle.executor": "Run",
@@ -81,8 +88,13 @@
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
-  <component name="RunManager" selected="Python.Locator">
-    <configuration name="FirstTestCases" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ashish sinha\PycharmProjects\PythonProject1" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.ConditionalCommands">
+    <configuration name="AppCommands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -95,7 +107,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/FirstTestCases.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppCommands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -104,7 +116,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Locator" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Cinderellahair product verification (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -117,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locator.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Cinderellahair product verification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Locators4" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Cinderellahair product verification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators4.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ashish sinha\PycharmProjects\PythonProject1\Cinderellahair product verification.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -148,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaucedemoLogin (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="ConditionalCommands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -161,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/SaucedemoLogin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ConditionalCommands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -170,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="SaucedemoLogin" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Locators6" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -183,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\ashish sinha\PycharmProjects\PythonProject1\SaucedemoLogin.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Locators6.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -194,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Locator" />
-        <item itemvalue="Python.Locators4" />
-        <item itemvalue="Python.SaucedemoLogin (1)" />
-        <item itemvalue="Python.SaucedemoLogin" />
-        <item itemvalue="Python.FirstTestCases" />
+        <item itemvalue="Python.ConditionalCommands" />
+        <item itemvalue="Python.Cinderellahair product verification (1)" />
+        <item itemvalue="Python.AppCommands" />
+        <item itemvalue="Python.Cinderellahair product verification" />
+        <item itemvalue="Python.Locators6" />
       </list>
     </recent_temporary>
   </component>
@@ -346,7 +358,23 @@
       <option name="project" value="LOCAL" />
       <updated>1736947377325</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1736947409619</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1736947409619</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1737042126089</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737042126089</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -368,8 +396,8 @@
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/SaucedemoLogin.py</url>
-          <line>18</line>
+          <url>file://$PROJECT_DIR$/Cinderellahair product verification.py</url>
+          <line>46</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
       </breakpoints>
