@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="Captchacode">
-      <change afterPath="$PROJECT_DIR$/Cinderellahair product verification.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators5.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Locators6.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="Captchacode" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,41 +43,41 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Capturewholepagescreenshot.executor": "Run",
-    "Python.ConditionalStatements.executor": "Run",
-    "Python.Da1.executor": "Run",
-    "Python.Day14.executor": "Run",
-    "Python.FirstTestCase.executor": "Run",
-    "Python.FirstTestCases.executor": "Run",
-    "Python.Locator.executor": "Run",
-    "Python.Locators.executor": "Run",
-    "Python.Locators1.executor": "Run",
-    "Python.Locators2.executor": "Run",
-    "Python.Locators3.executor": "Run",
-    "Python.Locators4.executor": "Run",
-    "Python.Locators6.executor": "Run",
-    "Python.Locatorss.executor": "Run",
-    "Python.Login.executor": "Run",
-    "Python.Pagetitle.executor": "Run",
-    "Python.SaucedemoLogin (1).executor": "Run",
-    "Python.SaucedemoLogin.executor": "Run",
-    "Python.TakingInputFromUser.executor": "Run",
-    "Python.Variables.executor": "Run",
-    "Python.forloopdemo.executor": "Run",
-    "Python.heeloworld.executor": "Debug",
-    "Python.listdemo.executor": "Run",
-    "Python.main.executor": "Run",
-    "Python.rangefunction.executor": "Run",
-    "Python.stringsdemo.executor": "Run",
-    "Python.whileloopdemo.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master",
-    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Capturewholepagescreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConditionalStatements.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Da1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Day14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstTestCase.executor&quot;: &quot;Run&quot;,
+    &quot;Python.FirstTestCases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locator.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators1.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators6.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locatorss.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Pagetitle.executor&quot;: &quot;Run&quot;,
+    &quot;Python.SaucedemoLogin (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.SaucedemoLogin.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakingInputFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
+    &quot;Python.forloopdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.heeloworld.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.listdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.main.executor&quot;: &quot;Run&quot;,
+    &quot;Python.rangefunction.executor&quot;: &quot;Run&quot;,
+    &quot;Python.stringsdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.whileloopdemo.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Python.Cinderellahair product verification">
     <configuration name="Cinderellahair product verification" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
@@ -356,7 +351,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736947409619</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Captchacode">
+      <option name="closed" value="true" />
+      <created>1737126496231</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1737126496231</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
