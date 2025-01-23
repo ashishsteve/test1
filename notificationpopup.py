@@ -1,10 +1,11 @@
 from selenium import webdriver
 from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.ie.webdriver import WebDriver
+ops.add_agument("--disable-notifications")
 options = Options()
 options.add_experimental_option("detach", True)
 driver= webdriver.Edge(options=options)
-
-driver.get("https://demo.nopcommerce.com")
-element=driver.find_element(By.XPATH,"//*[@id='small-searchterms]")
-element.send_keys("Apple MacBook Pro 13-inch")
+driver=webdriver.Chrome(service=serv_obj,options=ops)
+driver.get("https://whatmylocation.com/")
+driver.maximize_window()

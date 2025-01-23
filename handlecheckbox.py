@@ -5,6 +5,12 @@ options = Options()
 options.add_experimental_option("detach", True)
 driver= webdriver.Edge(options=options)
 
-driver.get("https://demo.nopcommerce.com")
-element=driver.find_element(By.XPATH,"//*[@id='small-searchterms]")
-element.send_keys("Apple MacBook Pro 13-inch")
+
+
+driver.get("https://demo.nopcommerce.com/")
+
+driver.maximize_window()
+driver.find_element(By.XPATH,'a')
+print("total number of links:",len(links))
+
+
