@@ -4,15 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="Captchacode">
-      <change afterPath="$PROJECT_DIR$/HandledDropdown.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ImplicitWait.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MetaDetails.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TextVsGetAttributes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/handlecheckbox.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notificationpopup.py" afterDir="false" />
+    <list default="true" id="c5234ee7-3841-4de3-a709-2f693ef1cb70" name="Changes" comment="Merge remote-tracking branch 'origin/master'">
+      <change afterPath="$PROJECT_DIR$/Dev23.gmrwebsites.com.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Funtions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Oragehrm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page Title.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Page_Description .py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_15-01-2025_18_53__Changes_.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FinElementVsFindElements.py" beforeDir="false" afterPath="$PROJECT_DIR$/FinElementVsFindElements.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/AppCommands.py" beforeDir="false" afterPath="$PROJECT_DIR$/AppCommands.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Da1.py" beforeDir="false" afterPath="$PROJECT_DIR$/Da1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Locators5.py" beforeDir="false" afterPath="$PROJECT_DIR$/Locators5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/NavigationalCommands.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TakingInputFromUser.py" beforeDir="false" afterPath="$PROJECT_DIR$/TakingInputFromUser.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/forloopdemo.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -29,8 +34,8 @@
   <component name="Git.Settings">
     <option name="PUSH_TAGS">
       <GitPushTagMode>
-        <option name="argument" value="--tags" />
-        <option name="title" value="All" />
+        <option name="argument" value="--follow-tags" />
+        <option name="title" value="Current Branch" />
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -61,13 +66,17 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python.AppCommands.executor&quot;: &quot;Run&quot;,
     &quot;Python.Capturewholepagescreenshot.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ConditionalCommands.executor&quot;: &quot;Run&quot;,
     &quot;Python.ConditionalStatements.executor&quot;: &quot;Run&quot;,
     &quot;Python.Da1.executor&quot;: &quot;Run&quot;,
     &quot;Python.Day14.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Dev23.gmrwebsites.com.executor&quot;: &quot;Run&quot;,
     &quot;Python.FinElementVsFindElements.executor&quot;: &quot;Run&quot;,
     &quot;Python.FirstTestCase.executor&quot;: &quot;Run&quot;,
     &quot;Python.FirstTestCases.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Funtions.executor&quot;: &quot;Run&quot;,
     &quot;Python.HandledDropdown.executor&quot;: &quot;Run&quot;,
     &quot;Python.ImplicitWait.executor&quot;: &quot;Run&quot;,
     &quot;Python.Locator.executor&quot;: &quot;Run&quot;,
@@ -76,14 +85,19 @@
     &quot;Python.Locators2.executor&quot;: &quot;Run&quot;,
     &quot;Python.Locators3.executor&quot;: &quot;Run&quot;,
     &quot;Python.Locators4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Locators5.executor&quot;: &quot;Run&quot;,
     &quot;Python.Locators6.executor&quot;: &quot;Run&quot;,
     &quot;Python.Locatorss.executor&quot;: &quot;Run&quot;,
     &quot;Python.Login.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Oragehrm.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.Page Title.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Page_Description .executor&quot;: &quot;Run&quot;,
     &quot;Python.Pagetitle.executor&quot;: &quot;Run&quot;,
     &quot;Python.SaucedemoLogin (1).executor&quot;: &quot;Run&quot;,
     &quot;Python.SaucedemoLogin.executor&quot;: &quot;Run&quot;,
-    &quot;Python.TakingInputFromUser.executor&quot;: &quot;Run&quot;,
+    &quot;Python.TakingInputFromUser.executor&quot;: &quot;Debug&quot;,
     &quot;Python.TextVsGetAttributes.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ToFindAParticularWordAnd_Its_Number.executor&quot;: &quot;Run&quot;,
     &quot;Python.Variables.executor&quot;: &quot;Run&quot;,
     &quot;Python.forloopdemo.executor&quot;: &quot;Run&quot;,
     &quot;Python.handlecheckbox.executor&quot;: &quot;Run&quot;,
@@ -93,6 +107,7 @@
     &quot;Python.notificationpopup.executor&quot;: &quot;Run&quot;,
     &quot;Python.rangefunction.executor&quot;: &quot;Run&quot;,
     &quot;Python.stringsdemo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sum.executor&quot;: &quot;Debug&quot;,
     &quot;Python.whileloopdemo.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -100,8 +115,8 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;
   }
 }</component>
-  <component name="RunManager" selected="Python.notificationpopup">
-    <configuration name="HandledDropdown" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Oragehrm">
+    <configuration name="AppCommands" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -114,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/HandledDropdown.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/AppCommands.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="ImplicitWait" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Oragehrm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -136,7 +151,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/ImplicitWait.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Oragehrm.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +160,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="TextVsGetAttributes" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Page Title" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -158,7 +173,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TextVsGetAttributes.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\ashish sinha\PycharmProjects\PythonProject1\Page Title.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="handlecheckbox" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Page_Description " type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -180,7 +195,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/handlecheckbox.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Page_Description .py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +204,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="notificationpopup" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="TakingInputFromUser" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="PythonProject1" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -202,7 +217,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/notificationpopup.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/TakingInputFromUser.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -213,11 +228,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.notificationpopup" />
-        <item itemvalue="Python.HandledDropdown" />
-        <item itemvalue="Python.handlecheckbox" />
-        <item itemvalue="Python.ImplicitWait" />
-        <item itemvalue="Python.TextVsGetAttributes" />
+        <item itemvalue="Python.Oragehrm" />
+        <item itemvalue="Python.Page_Description " />
+        <item itemvalue="Python.Page Title" />
+        <item itemvalue="Python.TakingInputFromUser" />
+        <item itemvalue="Python.AppCommands" />
       </list>
     </recent_temporary>
   </component>
@@ -397,7 +412,63 @@
       <option name="project" value="LOCAL" />
       <updated>1737559850750</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Captchacode updated one">
+      <option name="closed" value="true" />
+      <created>1737640029610</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1737640029610</updated>
+    </task>
+    <task id="LOCAL-00022" summary="To find a particular word on webpage updated one">
+      <option name="closed" value="true" />
+      <created>1738764087144</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1738764087144</updated>
+    </task>
+    <task id="LOCAL-00023" summary="To find a particular word on webpage updated one">
+      <option name="closed" value="true" />
+      <created>1738764105499</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1738764105499</updated>
+    </task>
+    <task id="LOCAL-00024" summary="To find a particular word on webpage updated one">
+      <option name="closed" value="true" />
+      <created>1738766128244</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1738766128244</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1738831485342</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1738831485342</updated>
+    </task>
+    <task id="LOCAL-00026" summary="https://github.com/ashishsteve/Captcha-Solver">
+      <option name="closed" value="true" />
+      <created>1738831523299</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1738831523299</updated>
+    </task>
+    <task id="LOCAL-00027" summary="Merge remote-tracking branch 'origin/master'">
+      <option name="closed" value="true" />
+      <created>1738831685654</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1738831685654</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -413,7 +484,12 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Captchacode" />
-    <option name="LAST_COMMIT_MESSAGE" value="Captchacode" />
+    <MESSAGE value="Captchacode updated one" />
+    <MESSAGE value="https://github.com/ashishsteve/CaptchaSolver.git" />
+    <MESSAGE value="To find a particular word on webpage updated one" />
+    <MESSAGE value="https://github.com/ashishsteve/Captcha-Solver" />
+    <MESSAGE value="Merge remote-tracking branch 'origin/master'" />
+    <option name="LAST_COMMIT_MESSAGE" value="Merge remote-tracking branch 'origin/master'" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
